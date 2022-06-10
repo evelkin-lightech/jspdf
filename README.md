@@ -47,8 +47,7 @@
 </div>
 
 <div style="margin-top: 5%;">
-    Очень важным моментом, на который я бы хотел заострить внимание, так это 
-    указание в HEADER тега META с некоторыми атрибутами: 
+    Очень важным моментом,является указание в HEADER тега META с некоторыми атрибутами: 
     <p><code>< meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></code></p>
 </div>
 
